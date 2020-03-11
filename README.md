@@ -1,4 +1,6 @@
-##Dijkstra Example
+# Dijkstra Example
+
+### Overview
 
 This is a simple example of the Dijkstra Algorithm, based on this 
 article https://github.com/felipemeriga/Dijkstra-Example.git, but with
